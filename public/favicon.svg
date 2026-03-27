@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Dark steel pill background -->
+  <rect width="32" height="32" rx="6" fill="#1A2332"/>
+  <!-- Hammer head -->
+  <rect x="7" y="7" width="10" height="7" rx="1.5" fill="#E8541A"/>
+  <!-- Hammer handle -->
+  <rect x="14" y="12" width="3.5" height="13" rx="1.5" fill="#F5F0E8" transform="rotate(-40 15.75 18)"/>
+  <!-- Strike spark / accent dot -->
+  <circle cx="9.5" cy="22.5" r="1.5" fill="#E8541A" opacity="0.7"/>
+</svg>

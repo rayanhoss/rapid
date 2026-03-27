@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- Icon mark: bold RR square -->
+  <rect width="72" height="72" x="4" y="4" rx="4" fill="#E8541A"/>
+  <text x="38" y="54" font-family="'Bebas Neue', sans-serif" font-size="38" fill="white" text-anchor="middle" letter-spacing="2">RR</text>
+
+  <!-- Wordmark -->
+  <text x="90" y="34" font-family="'Bebas Neue', sans-serif" font-size="28" fill="#F5F0E8" letter-spacing="3">RAPID RENOVATION</text>
+  <rect x="90" y="40" width="220" height="1.5" fill="#E8541A" opacity="0.6"/>
+  <text x="90" y="60" font-family="'Barlow Condensed', sans-serif" font-size="13" fill="#8A9BB5" letter-spacing="5" font-weight="500">&#38; DEMOLITION LLC</text>
+</svg>

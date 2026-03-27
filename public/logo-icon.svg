@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" fill="none">
+  <rect width="80" height="80" rx="14" fill="#1A2332"/>
+  <!-- Hammer head -->
+  <rect x="14" y="15" width="28" height="20" rx="4" fill="#E8541A"/>
+  <!-- Hammer handle -->
+  <rect x="34" y="28" width="9" height="38" rx="4" fill="#F5F0E8" transform="rotate(-40 38.5 47)"/>
+  <!-- Strike marks -->
+  <circle cx="22" cy="59" r="3.5" fill="#E8541A" opacity="0.6"/>
+  <circle cx="15" cy="51" r="2" fill="#E8541A" opacity="0.35"/>
+</svg>
